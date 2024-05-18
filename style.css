@@ -17,12 +17,12 @@
     margin: 1rem;
 }
 
-#count {
+#value {
     font-size: 6rem;
     margin: 1rem;
 }
 
-#controls {
+#buttons-container {
     width: 100%;
     display: flex;
     justify-content: center;
@@ -40,15 +40,15 @@
     cursor: pointer;
 }
 
-#count.green {
+#value.green {
     color: green;
 }
 
-#count.red {
+#value.red {
     color: red;
 }
 
-#count.black {
+#value.black {
     color: black;
 }
 
